@@ -22,3 +22,11 @@ body {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
 }
+
+h3 {
+  background-color: #e4e9fd;
+  text-align: center;
+  padding: 15px 0;
+  cursor: pointer;
+  font-weight: 600;
+}
