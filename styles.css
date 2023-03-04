@@ -11,10 +11,14 @@ body {
 
 .container {
   width: 80vmin;
-  border: 1px solid white;
   position: absolute;
   transform: translate(-50%);
   left: 50%;
   top: 120px;
   background-color: #fff;
+}
+
+.tabs {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
 }
