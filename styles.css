@@ -58,3 +58,8 @@ h3 {
 .tab-content .active{
   display: block;
 }
+
+.tabs .active {
+  background-color: #fff;
+  color: #4d5bf9;
+}
