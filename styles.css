@@ -43,3 +43,10 @@ h3 {
   color: #000224;
   font-weight: 600;
 }
+
+.tab-content p {
+  text-align: justify;
+  line-height: 1.9;
+  letter-spacing: 0.4px;
+  color: #202238;
+}
