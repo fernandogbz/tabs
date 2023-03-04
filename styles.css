@@ -8,3 +8,13 @@
 body {
   background-color: #4d5bf9;
 }
+
+.container {
+  width: 80vmin;
+  border: 1px solid white;
+  position: absolute;
+  transform: translate(-50%);
+  left: 50%;
+  top: 120px;
+  background-color: #fff;
+}
